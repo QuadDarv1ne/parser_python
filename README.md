@@ -44,6 +44,8 @@ Develop in the normal way with
 
     $ python setup.py develop
     
-## License
+    $ python sqlpython.py
+    
+## License 
 
-This project is licensed - Free license.
+This project is licensed | FREE License.

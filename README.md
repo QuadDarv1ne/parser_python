@@ -10,8 +10,6 @@
 [![followers](https://img.shields.io/github/followers/QuadDarv1ne?style=social)][pipfile]
 [![status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36)][pipfile]
 
-[![requires]:(python_version = '3.7'?style=flat-square&logo=appveyor)][requires]
-
 [pipfile]: https://github.com/metabolize/rq-dashboard-on-heroku/blob/master/Pipfile
 [build]: https://circleci.com/gh/metabolize/rq-dashboard-on-heroku/tree/master
 [black]: https://black.readthedocs.io/en/stable/

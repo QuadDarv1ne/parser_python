@@ -1,8 +1,7 @@
 # parser_python
 
-
-[![followers](https://img.shields.io/github/followers/QuadDarv1ne?style=social][pipfile]
-[![rq-dashboard](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36][pipfile]
+![](https://img.shields.io/github/followers/QuadDarv1ne?style=social][pipfile]
+![](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36][pipfile]
 
 [requires]: python_version = '3.7'
 
@@ -37,14 +36,4 @@ Three settings must be configured:
 
 ## License
 
-This project is licensed under the 2-clause BSD license.
-
-?style=social&logo=appveyor
-
-
-{
-  "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
-  "color": "orange"
-}
+This project is licensed - Free license.

@@ -6,9 +6,6 @@
 
 [requires]: python_version = '3.7'
 
-
-# rq-dashboard-on-heroku
-
 [![rq-dashboard](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/rq-dashboard?style=flat-square)][pipfile]
 [![python](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku?style=flat-square)][pipfile]
 ![](https://img.shields.io/github/license/metabolize/rq-dashboard-on-heroku?style=flat-square)

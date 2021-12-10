@@ -6,8 +6,8 @@
 [![build](https://img.shields.io/circleci/project/github/metabolize/rq-dashboard-on-heroku?style=flat-square)][build]
 [![code style](https://img.shields.io/badge/code%20style-black-black.svg?style=flat-square)][black]
 
-![](https://img.shields.io/github/followers/QuadDarv1ne?style=social][pipfile]
-![](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36][pipfile]
+[![followers](https://img.shields.io/github/followers/QuadDarv1ne?style=social)][pipfile]
+[![status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36)][pipfile]
 
 [requires]: python_version = '3.7'
 

@@ -29,11 +29,22 @@ A version of [RQ Dashboard][] that can be deployed to Heroku.
 
 Three settings must be configured:
 
-- `RQ_DASHBOARD_REDIS_URL=rediss://redis:6379`
+- `RQ_DASHBOARD_REDIS_URL=rediss://`
 - `RQ_DASHBOARD_USERNAME=user`
 - `RQ_DASHBOARD_PASSWORD=pass`
 
+Developing
+----------
 
+Develop in a virtualenv and make sure you have all the necessary build
+time (and run time) dependencies with
+
+    $ pip install -r requirements.txt
+
+Develop in the normal way with
+
+    $ python setup.py develop
+    
 ## License
 
 This project is licensed - Free license.

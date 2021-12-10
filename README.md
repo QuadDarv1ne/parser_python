@@ -40,3 +40,11 @@ Three settings must be configured:
 This project is licensed under the 2-clause BSD license.
 
 ?style=social&logo=appveyor
+
+
+{
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
+}

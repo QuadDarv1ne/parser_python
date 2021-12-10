@@ -2,8 +2,7 @@
 
 
 [![rq-dashboard](https://img.shields.io/github/followers/QuadDarv1ne?style=social][pipfile]
-[![rq-dashboard](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?style=social&logo=appveyor
-][pipfile]
+[![rq-dashboard](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36][pipfile]
 
 [requires](python_version = '3.7')
 

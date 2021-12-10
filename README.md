@@ -1,15 +1,15 @@
 # parser_python
 
-![](https://img.shields.io/github/followers/QuadDarv1ne?style=social][pipfile]
-![](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36][pipfile]
-
-[requires]: python_version = '3.7'
-
 [![rq-dashboard](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/rq-dashboard?style=flat-square)][pipfile]
 [![python](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku?style=flat-square)][pipfile]
 ![](https://img.shields.io/github/license/metabolize/rq-dashboard-on-heroku?style=flat-square)
 [![build](https://img.shields.io/circleci/project/github/metabolize/rq-dashboard-on-heroku?style=flat-square)][build]
 [![code style](https://img.shields.io/badge/code%20style-black-black.svg?style=flat-square)][black]
+
+![](https://img.shields.io/github/followers/QuadDarv1ne?style=social][pipfile]
+![](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36][pipfile]
+
+[requires]: python_version = '3.7'
 
 [pipfile]: https://github.com/metabolize/rq-dashboard-on-heroku/blob/master/Pipfile
 [build]: https://circleci.com/gh/metabolize/rq-dashboard-on-heroku/tree/master
